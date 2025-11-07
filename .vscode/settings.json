@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "__hash_table": "cpp",
+        "array": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "variant": "cpp",
+        "complex": "cpp",
+        "type_traits": "cpp",
+        "istream": "cpp"
+    }
+}
